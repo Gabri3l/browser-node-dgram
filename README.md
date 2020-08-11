@@ -6,14 +6,14 @@ A browser shim for Node's `dgram`.
 
 In ES5:
 
-```
-var dgram = require('browser-shim-node-dgram')
+```js
+var dgram = require("browser-node-dgram");
 ```
 
 In ES6:
 
 ```js
-import dgram from 'browser-shim-node-dgram'
+import dgram from "browser-node-dgram";
 ```
 
 ## Support
